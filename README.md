@@ -43,19 +43,6 @@ Skilled in Python, SQL, Tableau, and AWS QuickSight, I’ve built predictive mod
 
 ---
 
-### Featured & Pinned Projects  
-
-| Project | Description | Impact / Outcome |
-|----------|--------------|------------------|
-| [**Loan Default Prediction**](https://github.com/supriyak21/Loan-default-prediction) | Built a predictive model using logistic regression & XGBoost to detect high-risk borrowers. | Prevented potential losses of **~$85K** and improved risk-flag accuracy by **28%**. |
-| [**Shopper Purchase Intent Prediction**](https://github.com/supriyak21/ML-Based-Shopper-Purchase-Intent-Prediction) | Developed a classification pipeline to predict **purchase intent** from clickstream data. | Achieved **91.4% accuracy** and optimized marketing conversions. |
-| [**Customer Segmentation using K-Means**](https://github.com/supriyak21/Customer-segmentation) | Clustered **8,950+ customers** using K-Means, PCA & UMAP for targeted marketing. | Improved campaign precision by **20%** and enhanced retention tracking. |
-| [**DHL Supply Chain Analytics Dashboard**](https://github.com/supriyak21/DHL-Supply-Chain-Analytics) | Built a Tableau dashboard for carrier KPIs & operational insights. | Enabled real-time visibility for **$577K+ monthly revenue** operations. |
-| [**A/B Testing on Game Dataset**](https://www.kaggle.com/work) | Conducted A/B experiments on user behavior to evaluate feature impact and conversion rates. | Improved engagement metrics by **12%** through statistical testing. |
-| **Cloud Analytics Dashboards (Internship)** | Created AWS QuickSight dashboards and Firebase data pipelines for app analytics. | Automated reporting workflows and reduced manual effort by **35%**. |
-
----
-
 ### Academic & Professional Highlights  
 - **Teaching Assistant (TA)** for:  
   - *IE7275 – Data Mining in Engineering* → Guided students in ML workflows & model evaluation  
@@ -89,6 +76,6 @@ Skilled in Python, SQL, Tableau, and AWS QuickSight, I’ve built predictive mod
 
 ### Connect with Me  
 **kushwaha.su@northeastern.edu**  
-[LinkedIn](https://linkedin.com/in/supriyakushwaha) | [GitHub](https://github.com/supriyak21) | [**Tableau Public**](https://public.tableau.com/app/profile/supriya.kumari.kushwaha/vizzes) | [**Kaggle**](https://www.kaggle.com/work)
+[LinkedIn](https://linkedin.com/in/supriyakushwaha) | [GitHub](https://github.com/supriyak21) | [**Tableau**](https://public.tableau.com/app/profile/supriya.kumari.kushwaha/vizzes) | [**Kaggle**](https://www.kaggle.com/work)
 
 *If you like my work, please star a few repositories — it boosts my confidence!*
