@@ -4,9 +4,10 @@
 I’m a data-driven professional with 5+ years of experience leading business growth, operations, and performance in the banking sector, now advancing that expertise through data analytics and machine learning. I combine leadership and analytical skills to uncover insights, automate reporting workflows, and drive measurable business outcomes. Skilled in Python, SQL, Tableau, and AWS QuickSight, I’ve built predictive models, customer segmentations, and interactive dashboards that transform data into strategic decisions. I’m passionate about bridging business strategy and analytics to deliver impactful, data-backed solutions across cross-functional teams.
 </p>
 
-<br>
+<hr style="border: 0.5px solid #444; margin: 25px 0;">
 
-### Tech Stack  
+<h3 align="center">Tech Stack</h3>
+
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -21,9 +22,12 @@ I’m a data-driven professional with 5+ years of experience leading business gr
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </p>
 
-<br>
+<hr style="border: 0.5px solid #444; margin: 25px 0;">
 
-### Technical Skills  
+<h3 align="center">Technical Skills</h3>
+
+<p align="center">
+
 | Category | Tools & Technologies |
 |-----------|----------------------|
 | **Programming & Querying** | Python (pandas, numpy, matplotlib), SQL (T-SQL, PostgreSQL) |
@@ -33,9 +37,12 @@ I’m a data-driven professional with 5+ years of experience leading business gr
 | **Data Processing** | pandas, Excel, EDA, statistical analysis |
 | **Other Tools** | Git, Jupyter, VS Code |
 
-<br>
+</p>
 
-### Academic & Professional Highlights  
+<hr style="border: 0.5px solid #444; margin: 25px 0;">
+
+<h3 align="center">Academic & Professional Highlights</h3>
+
 - **Teaching Assistant (TA)** for:  
   - *IE7275 – Data Mining in Engineering* → Guided students in ML workflows & model evaluation  
   - *IE6600 – Computation & Visualization for Analytics* → Mentored students in Tableau, Python (pandas), and data storytelling  
@@ -46,11 +53,21 @@ I’m a data-driven professional with 5+ years of experience leading business gr
 - Earned [**HackerRank**](https://www.hackerrank.com/profile/Supriyakushwaha4) (Basic & Intermediate SQL Certifications), demonstrating advanced querying and analytical problem-solving skills  
 - Strengthened technical foundations by solving **SQL & Python problems** on [LeetCode](https://leetcode.com/u/supriyakk/), earning **SQL** and **Pandas** badges for analytical proficiency.
 
-<br>
+<hr style="border: 0.5px solid #444; margin: 25px 0;">
 
-### Connect with Me  
-**kushwaha.su@northeastern.edu** | [LinkedIn](https://linkedin.com/in/supriyakushwaha) | [GitHub](https://github.com/supriyak21) | [**Tableau**](https://public.tableau.com/app/profile/supriya.kumari.kushwaha/vizzes) | [**Kaggle**](https://www.kaggle.com/work)
+<h3 align="center">Connect with Me</h3>
 
-<br>
+<p align="center">
+  <b>kushwaha.su@northeastern.edu</b>  
+  <br>
+  <a href="https://linkedin.com/in/supriyakushwaha">LinkedIn</a> |
+  <a href="https://github.com/supriyak21">GitHub</a> |
+  <a href="https://public.tableau.com/app/profile/supriya.kumari.kushwaha/vizzes">Tableau</a> |
+  <a href="https://www.kaggle.com/work">Kaggle</a>
+</p>
 
-*If you like my work, please star a few repositories — it boosts my confidence!*
+<hr style="border: 0.5px solid #444; margin: 30px 0;">
+
+<p align="center"><i>If you like my work, please star a few repositories — it boosts my confidence ❤️</i></p>
+
+<p align="center"><sub>© 2025 Supriya Kushwaha 
