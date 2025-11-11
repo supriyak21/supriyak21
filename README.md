@@ -1,4 +1,4 @@
-# Hi, I'm Supriya  
+<h1 align="center" style="color:#58A6FF;">Hi, I'm Supriya 👋</h1>  
 
 <p align="justify">
 I’m a data-driven professional with 5+ years of experience leading business growth, operations, and performance in the banking sector, now advancing that expertise through data analytics and machine learning. I combine leadership and analytical skills to uncover insights, automate reporting workflows, and drive measurable business outcomes. Skilled in Python, SQL, Tableau, and AWS QuickSight, I’ve built predictive models, customer segmentations, and interactive dashboards that transform data into strategic decisions. I’m passionate about bridging business strategy and analytics to deliver impactful, data-backed solutions across cross-functional teams.
@@ -6,7 +6,7 @@ I’m a data-driven professional with 5+ years of experience leading business gr
 
 <hr style="border: 0.5px solid #444; margin: 25px 0;">
 
-<h3 align="center">Tech Stack</h3>
+<h3 align="center">TECH STACK</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -24,7 +24,7 @@ I’m a data-driven professional with 5+ years of experience leading business gr
 
 <hr style="border: 0.5px solid #444; margin: 25px 0;">
 
-<h3 align="center">Technical Skills</h3>
+<h3 align="center">TECHNICAL SKILLS</h3>
 
 <p align="center">
 
@@ -41,7 +41,7 @@ I’m a data-driven professional with 5+ years of experience leading business gr
 
 <hr style="border: 0.5px solid #444; margin: 25px 0;">
 
-<h3 align="center">Academic & Professional Highlights</h3>
+<h3 align="center">ACADEMIC & PROFESSIONAL HIGHLIGHTS</h3>
 
 - **Teaching Assistant (TA)** for:  
   - *IE7275 – Data Mining in Engineering* → Guided students in ML workflows & model evaluation  
@@ -55,10 +55,10 @@ I’m a data-driven professional with 5+ years of experience leading business gr
 
 <hr style="border: 0.5px solid #444; margin: 25px 0;">
 
-<h3 align="center">Connect with Me</h3>
+<h3 align="center">CONNECT WITH ME</h3>
 
 <p align="center">
-  <b>kushwaha.su@northeastern.edu</b>  
+  <a href="mailto:kushwaha.su@northeastern.edu"><b>kushwaha.su@northeastern.edu</b></a>  
   <br>
   <a href="https://linkedin.com/in/supriyakushwaha">LinkedIn</a> |
   <a href="https://github.com/supriyak21">GitHub</a> |
@@ -70,4 +70,4 @@ I’m a data-driven professional with 5+ years of experience leading business gr
 
 <p align="center"><i>If you like my work, please star a few repositories — it boosts my confidence ❤️</i></p>
 
-<p align="center"><sub>© 2025 Supriya Kushwaha 
+<p align="center"><sub>© 2025 Supriya Kushwaha</sub></p>
