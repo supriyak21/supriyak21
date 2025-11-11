@@ -58,11 +58,10 @@ I’m a data-driven professional with 5+ years of experience leading business gr
 <h3 align="center">CONNECT WITH ME</h3>
 
 <p align="center">
-  <a href="mailto:kushwaha.su@northeastern.edu"><b>kushwaha.su@northeastern.edu</b></a>  
-  <br>
-  <a href="https://linkedin.com/in/supriyakushwaha">LinkedIn</a> |
-  <a href="https://github.com/supriyak21">GitHub</a> |
-  <a href="https://public.tableau.com/app/profile/supriya.kumari.kushwaha/vizzes">Tableau</a> |
+  <a href="mailto:kushwaha.su@northeastern.edu"><b>kushwaha.su@northeastern.edu</b></a> • 
+  <a href="https://linkedin.com/in/supriyakushwaha">LinkedIn</a> • 
+  <a href="https://github.com/supriyak21">GitHub</a> • 
+  <a href="https://public.tableau.com/app/profile/supriya.kumari.kushwaha/vizzes">Tableau</a> • 
   <a href="https://www.kaggle.com/work">Kaggle</a>
 </p>
 
