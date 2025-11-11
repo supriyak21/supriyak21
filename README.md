@@ -59,17 +59,6 @@ Skilled in Python, SQL, Tableau, and AWS QuickSight, I’ve built predictive mod
 
 ---
 
-### Kaggle Achievements  
-[**Visit My Kaggle Profile →**](https://www.kaggle.com/work)
-
-- Authored **notebooks on A/B testing, clustering & predictive analytics**  
-- Earned community upvotes for clear, well-structured analysis and visualizations  
-- Focused on **EDA, feature engineering, and experiment evaluation**  
-- Active in Kaggle discussions and open-data challenges  
-
-
----
-
 ### Connect with Me  
 **kushwaha.su@northeastern.edu**  
 [LinkedIn](https://linkedin.com/in/supriyakushwaha) | [GitHub](https://github.com/supriyak21) | [**Tableau**](https://public.tableau.com/app/profile/supriya.kumari.kushwaha/vizzes) | [**Kaggle**](https://www.kaggle.com/work)
