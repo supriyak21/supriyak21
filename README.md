@@ -1,4 +1,4 @@
-# Hi, I'm Supriya Kushwaha  
+# Hi, I'm Supriya  
 MS in Data Analytics Engineering · Northeastern University, Seattle  
 Data Analyst · Data Scientist · Former Banking Manager | SQL · Python · Tableau · AWS QuickSight · ML
 
