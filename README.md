@@ -64,6 +64,7 @@ Skilled in Python, SQL, Tableau, and AWS QuickSight, I’ve built predictive mod
 - Worked with **AWS QuickSight**, **Firebase**, and **RDS** during internship to develop and deliver cloud-based analytics solutions 
 - Applied **statistical, predictive & visualization techniques** to uncover business performance drivers  
 - Published dashboards on [**Tableau**](https://public.tableau.com/app/profile/supriya.kumari.kushwaha/vizzes)
+- Earned [**HackerRank**](https://www.hackerrank.com/profile/Supriyakushwaha4) (Basic & Intermediate SQL Certifications), demonstrating advanced querying and analytical problem-solving skills
 - Strengthened technical foundations by solving **SQL & Python problems** on [LeetCode](https://leetcode.com/u/supriyakk/), earning **SQL** and **Pandas** badges for analytical proficiency.
 
 
