@@ -2,6 +2,7 @@
 MS in Data Analytics Engineering · Northeastern University, Seattle  
 Data Analyst · Data Scientist · Former Banking Manager | SQL · Python · Tableau · AWS QuickSight · ML
 
+
 ---
 
 ### Tech Stack
@@ -20,8 +21,8 @@ Data Analyst · Data Scientist · Former Banking Manager | SQL · Python · Tabl
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </p>
 
----
 
+---
 
 ### About Me  
 I’m a data-driven professional with 5+ years of experience leading business growth, operations, and performance in the banking sector, now advancing that expertise through data analytics and machine learning. I combine leadership and analytical skills to uncover insights, automate reporting workflows, and drive measurable business outcomes.  
@@ -40,6 +41,7 @@ Skilled in Python, SQL, Tableau, and AWS QuickSight, I’ve built predictive mod
 | **Cloud & Databases** | AWS RDS, Google Firebase, MySQL, PostgreSQL, Snowflake |
 | **Data Processing** | pandas, Excel, EDA, statistical analysis |
 | **Other Tools** | Git, Jupyter, VS Code |
+
 
 ---
 
@@ -65,12 +67,6 @@ Skilled in Python, SQL, Tableau, and AWS QuickSight, I’ve built predictive mod
 - Focused on **EDA, feature engineering, and experiment evaluation**  
 - Active in Kaggle discussions and open-data challenges  
 
----
-
-### GitHub & Kaggle Stats  
-
-![Supriya's GitHub stats](https://github-readme-stats.vercel.app/api?username=supriyak21&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=supriyak21&layout=compact&theme=radical)
 
 ---
 
