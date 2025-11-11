@@ -1,10 +1,9 @@
-# Hi, I'm Supriya  
+Hi, I'm Supriya  
 MS in Data Analytics Engineering · Northeastern University, Seattle  
 Data Analyst · Data Scientist · Former Banking Manager | SQL · Python · Tableau · AWS QuickSight · ML
 
 
 ---
-
 ### Tech Stack
 
 <p align="center">
@@ -23,7 +22,6 @@ Data Analyst · Data Scientist · Former Banking Manager | SQL · Python · Tabl
 
 
 ---
-
 ### About Me  
 I’m a data-driven professional with 5+ years of experience leading business growth, operations, and performance in the banking sector, now advancing that expertise through data analytics and machine learning. I combine leadership and analytical skills to uncover insights, automate reporting workflows, and drive measurable business outcomes.  
 
@@ -31,7 +29,6 @@ Skilled in Python, SQL, Tableau, and AWS QuickSight, I’ve built predictive mod
 
 
 ---
-
 ### Technical Skills  
 | Category | Tools & Technologies |
 |-----------|----------------------|
@@ -44,7 +41,6 @@ Skilled in Python, SQL, Tableau, and AWS QuickSight, I’ve built predictive mod
 
 
 ---
-
 ### Academic & Professional Highlights  
 - **Teaching Assistant (TA)** for:  
   - *IE7275 – Data Mining in Engineering* → Guided students in ML workflows & model evaluation  
@@ -58,7 +54,6 @@ Skilled in Python, SQL, Tableau, and AWS QuickSight, I’ve built predictive mod
 
 
 ---
-
 ### Connect with Me  
 **kushwaha.su@northeastern.edu**  
 [LinkedIn](https://linkedin.com/in/supriyakushwaha) | [GitHub](https://github.com/supriyak21) | [**Tableau**](https://public.tableau.com/app/profile/supriya.kumari.kushwaha/vizzes) | [**Kaggle**](https://www.kaggle.com/work)
