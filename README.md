@@ -56,7 +56,6 @@ Senior Data Analyst with 5+ years in financial risk analytics. I've flagged $3M 
 - **Leadership in Banking Operations** → Led teams, tracked KPIs, and improved performance across deposits and digital initiatives  
 - Worked with **AWS QuickSight**, **Firebase**, and **AWS** during internship to develop and deliver cloud-based analytics solutions  
 - Applied **statistical, predictive, and visualization techniques** to uncover business performance drivers  
-- Published dashboards on [**Tableau**](https://public.tableau.com/app/profile/supriya.kumari.kushwaha/vizzes)  
 
 <br><br>
 
