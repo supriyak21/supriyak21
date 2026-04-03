@@ -1,16 +1,20 @@
-<h1 align="center" style="color:#58A6FF;">Hi, I'm Supriya 👋</h1>  
-
+<h3 align="center" style="color:#58A6FF;">Hi, I'm Supriya 👋</h3>  
+<br>
 <p align="justify">
-I’m a data-driven professional with 5+ years of experience leading business growth, operations, and performance in the banking sector, now advancing that expertise through data analytics and machine learning. I combine leadership and analytical skills to uncover insights, automate reporting workflows, and drive measurable business outcomes. Skilled in Python, SQL, Tableau, and AWS QuickSight, I’ve built predictive models, customer segmentations, and interactive dashboards that transform data into strategic decisions. I’m passionate about bridging business strategy and analytics to deliver impactful, data-backed solutions across cross-functional teams.
+Senior Data Analyst with 5+ years in financial risk analytics. I've flagged $3M in risk exposure, improved campaign ROI by 27%, and built analytics pipelines processing millions of records across AWS and GCP. I don't just report numbers, I surface the signals that drive decisions. From delinquency trend detection at a national bank to cloud-based risk scoring on BigQuery, I bring both domain depth and modern technical range.
 </p>
 
-<hr style="border: 0.5px solid #444; margin: 25px 0;">
+<br>
 
 <h3 align="center">TECH STACK</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GCP-FF6F00?style=for-the-badge&logo=google-cloud&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Looker%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Microsoft%20Fabric-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS%20QuickSight-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
@@ -22,7 +26,7 @@ I’m a data-driven professional with 5+ years of experience leading business gr
   <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </p>
 
-<hr style="border: 0.5px solid #444; margin: 25px 0;">
+<br>
 
 <h3 align="center">TECHNICAL SKILLS</h3>
 
@@ -32,28 +36,29 @@ I’m a data-driven professional with 5+ years of experience leading business gr
 |-----------|----------------------|
 | **Programming & Querying** | Python (pandas, numpy, matplotlib), SQL (T-SQL, PostgreSQL) |
 | **Machine Learning** | scikit-learn, PyTorch, transformers, feature engineering |
-| **Visualization & BI** | Tableau, AWS QuickSight, seaborn, Power BI |
-| **Cloud & Databases** | AWS RDS, Google Firebase, MySQL, PostgreSQL, Snowflake |
+| **Visualization & BI** | Tableau, AWS QuickSight, seaborn, Power BI, Looker |
+| **Cloud & Databases** | Microsoft fabric, GCP, BigQuery, AWS RDS, Google Firebase, MySQL, PostgreSQL, Snowflake |
 | **Data Processing** | pandas, Excel, EDA, statistical analysis |
 | **Other Tools** | Git, Jupyter, VS Code |
 
 </p>
 
-<hr style="border: 0.5px solid #444; margin: 25px 0;">
+<br>
 
 <h3 align="center">ACADEMIC & PROFESSIONAL HIGHLIGHTS</h3>
 
-- **Teaching Assistant (TA)** for:  
+- **Data Analyst @ Humanitarians AI**
+  - Owned KPI definitions, reporting logic, and data quality frameworks for a multi-project portfolio
+  - Improving consistency and auditability of stakeholder reporting
+- **Teaching Assistant (TA)** :  
   - *IE7275 – Data Mining in Engineering* → Guided students in ML workflows & model evaluation  
   - *IE6600 – Computation & Visualization for Analytics* → Mentored students in Tableau, Python (pandas), and data storytelling  
 - **Leadership in Banking Operations** → Led teams, tracked KPIs, and improved performance across deposits and digital initiatives  
-- Worked with **AWS QuickSight**, **Firebase**, and **RDS** during internship to develop and deliver cloud-based analytics solutions  
+- Worked with **AWS QuickSight**, **Firebase**, and **AWS** during internship to develop and deliver cloud-based analytics solutions  
 - Applied **statistical, predictive, and visualization techniques** to uncover business performance drivers  
 - Published dashboards on [**Tableau**](https://public.tableau.com/app/profile/supriya.kumari.kushwaha/vizzes)  
-- Earned [**HackerRank**](https://www.hackerrank.com/profile/Supriyakushwaha4) (Basic & Intermediate SQL Certifications), demonstrating advanced querying and analytical problem-solving skills  
-- Strengthened technical foundations by solving **SQL & Python problems** on [LeetCode](https://leetcode.com/u/supriyakk/), earning **SQL** and **Pandas** badges for analytical proficiency.
 
-<hr style="border: 0.5px solid #444; margin: 25px 0;">
+<br><br>
 
 <h3 align="center">CONNECT WITH ME</h3>
 
@@ -65,8 +70,6 @@ I’m a data-driven professional with 5+ years of experience leading business gr
   <a href="https://www.kaggle.com/work">Kaggle</a>
 </p>
 
-<hr style="border: 0.5px solid #444; margin: 30px 0;">
 
-<p align="center"><i>If you like my work, please star a few repositories — it boosts my confidence ❤️</i></p>
 
-<p align="center"><sub>© 2025 Supriya Kushwaha</sub></p>
+<p align="center"><sub>© 2026 Supriya Kushwaha</sub></p>
